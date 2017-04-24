@@ -6,4 +6,4 @@
 
 ##如何预览
 
-点击
+点击 https://mhh931029.github.io/blog20170319/
